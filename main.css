@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+sub {
+    color: blue;
+}
+
+sup {
+    color: red;
+}
+
+.container {
+    padding: 200px;
+}
+
+h2,
+h3 {
+    text-align: center;
+}
